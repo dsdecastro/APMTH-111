@@ -1,0 +1,1 @@
+My final project for APMTH 111, in which I applied the skills learned in class to perform and analyze two distinct simulations of Covid-19 Case Data from Brazil using the Susceptible-Infected-Recovered (SIR) Model of Disease Transmission. 
